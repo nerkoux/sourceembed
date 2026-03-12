@@ -1,6 +1,6 @@
 {
 	"name": "@letsroti/sourceembed",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Store embed JSON to Cloudflare R2 and return a public URL",
 	"main": "dist/index.js",
 	"module": "dist/index.mjs",
@@ -45,5 +45,13 @@
 	},
 	"engines": {
 		"node": ">=18.0.0"
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/letsroti/sourceembed.git"
+	},
+	"bugs": {
+		"url": "https://github.com/letsroti/sourceembed/issues"
+	},
+	"homepage": "https://github.com/letsroti/sourceembed#readme"
 }

@@ -11,6 +11,9 @@ jobs:
     steps:
       - uses: letsroti/checkout@v4
 
+      - name: Debug - Check directory contents
+        run: ls -la && ls -la src
+
       - uses: letsroti/setup-node@v4
         with:
           node-version: 20

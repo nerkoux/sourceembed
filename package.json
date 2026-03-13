@@ -1,6 +1,6 @@
 {
 	"name": "@letsroti/sourceembed",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Store embed JSON to Cloudflare R2 and return a public URL",
 	"main": "dist/index.js",
 	"module": "dist/index.mjs",
